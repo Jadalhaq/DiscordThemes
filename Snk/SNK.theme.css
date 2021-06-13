@@ -1,0 +1,41 @@
+/**
+* @name SNK
+* @version 1.0
+* @description An shingeki no Kyojin Discord theme
+* @author Jeb#4623
+* @invite https://discord.gg/Jcudxd38DN
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches');
+:root {
+--themeColor1: #25BF2EFF;
+--themeColor2: #25BF2EFF;
+--customFont: 'Staatliches';
+--homeImage: url('https://i.imgur.com/bpfc3hm.jpg');
+--homeImageSize: cover;
+--backgroundColor: #0D0D0DFF;
+--backgroundImage: url('https://i.imgur.com/GeWslON.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 6px;
+--backgroundOpacity: 0.55;
+--rs-small-spacing: 0px;
+--rs-large-spacing: 0px;
+--rs-width: 3px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--columns: 2;
+--guildsize: 50;
+--guildgap: 6;
+--aligndms: 0;
+}
