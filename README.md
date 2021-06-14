@@ -7,5 +7,5 @@
 <a href="Snk/SNK.theme.css" download>Click to Download</a>
 
 ### 2. One punch man Theme
-<img src="OPM/Example.png"/>
-<a href="OPM/OPM.theme.css" download>Click to Download</a>
+<img src="Opm/Example.png"/>
+<a href="Opm/OPM.theme.css" download>Click to Download</a>
