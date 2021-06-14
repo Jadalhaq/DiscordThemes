@@ -11,4 +11,4 @@
 <a href="Opm/OPM.theme.css" download>Click to Download</a>
 
 
-<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
+<a id="raw-url" href="https://github.com/Jadalhaq/DiscordThemes/blob/main/Opm/OPM.theme.css">Download FILE</a>
