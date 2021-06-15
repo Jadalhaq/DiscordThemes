@@ -1,0 +1,32 @@
+/**
+* @name TanjirōKamado
+* @version 1.0
+* @description A Tanjirō Kamado Discord theme
+* @author Jeb#4623
+* @source https://github.com/Jadalhaq/DiscordThemes
+* @invite https://discord.gg/Jcudxd38DN
+* @donate https://paypal.me/jestab06
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC');
+:root {
+--themeColor1: #C699EDFF;
+--themeColor2: #A528B4FF;
+--customFont: 'Mate SC';
+--homeImage: url('https://i.imgur.com/y2MgQWR.jpg');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/l6aT7e7.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 6px;
+--backgroundOpacity: 0.35;
+--columns: 2;
+--guildsize: 50;
+--guildgap: 6;
+--aligndms: 0;
+}
