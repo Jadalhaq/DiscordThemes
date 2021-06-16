@@ -7,3 +7,6 @@
 
 ### 2. One punch man Theme <a href="Opm/OPM.theme.css">(Here.)</a>
 <img src="Opm/Example.png"/>
+
+### 2. Tanjirō Kamado Theme <a href="Tanjiro/TanjirōKamado.theme.css">(Here.)</a>
+<img src="Tanjiro/Example.png"/>
